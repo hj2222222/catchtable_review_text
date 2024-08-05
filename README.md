@@ -3,25 +3,21 @@
 
 
 <p align="center">
-  <img src="./3점대_명사_추출.png">
+  <img src="./3점대명사추출.png">
 </p>
 
 <p align="center">
-  <img src="3점대 워드클라우드.png">
+  <img src="3점대워드클라우드.png">
 </p>
 
 <p align="center">
-  <img src="./5점대 명사.png">
+  <img src="./5점대명사.png">
 </p>
 
 <p align="center">
-  <img src="./5점대 워드클라우드.png">
+  <img src="./5점대워드클라우드.png">
 </p>
 
 <p align="center">
-  <img src="./별점대로 분류.png">
-</p>
-
-<p align="center">
-  <img src="./카테고리 탑5 워드클라우드.png">
+  <img src="./카테고리탑5워드클라우드.png">
 </p>
