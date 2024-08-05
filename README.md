@@ -6,22 +6,22 @@
     <img src="./3_name.png">
 </p>
 
-<p>3점대 명사 워드클라우드</p>
+<p align="center">3점대 명사 워드클라우드</p>
 <p align="center">
   <img src="./3_wordcloud.png">
 </p>
 
-<p>5점대 명사</p>
+<p align="center">5점대 명사</p>
 <p align="center">
   <img src="./5_name.png">
 </p>
 
-<p>5점대 명사 워드클라우드</p>
+<p align="center">5점대 명사 워드클라우드</p>
 <p align="center">
   <img src="./5_wordcloud.png">
 </p>
 
-<p>카테고리 top5의 워드클라우드</p>
+<p align="center">카테고리 top5의 워드클라우드</p>
 <p align="center">
   <img src="./cate_wordcloud.png">
 </p>
