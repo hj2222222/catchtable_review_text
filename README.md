@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="3점대워드클라우드.png">
+  <img src="./3점대워드클라우드.png">
 </p>
 
 <p align="center">
