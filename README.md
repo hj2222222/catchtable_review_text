@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="./3점대 명사 추출.png">
+  <img src="./3점대_명사_추출.png">
 </p>
 
 <p align="center">
