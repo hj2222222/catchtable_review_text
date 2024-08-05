@@ -3,12 +3,8 @@
 
 <p align="center" display="flex">
   <div>
-    3점대 명사
+    <p>3점대 명사</p>
     <img src="./3_name.png">
-  </div>
-    <div>
-      5점대 명사
-    <img src="./5_name.png">
   </div>
 </p>
 
