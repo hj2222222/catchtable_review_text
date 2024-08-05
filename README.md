@@ -2,21 +2,21 @@
 * 각각의 리뷰를 3점대 5점대 좋아요 카테고리 등등 으로 나누어 텍스트 데이터 분석 진행
 
 <p align="center">
-  <img src="./3점대명사추출.png">
+  <img src="./3_name.png">
 </p>
 
 <p align="center">
-  <img src="./3점대워드클라우드.png">
+  <img src="./3_wordcloud.png">
 </p>
 
 <p align="center">
-  <img src="./5점대명사.png">
+  <img src="./5_name.png">
 </p>
 
 <p align="center">
-  <img src="./5점대워드클라우드.png">
+  <img src="./5_wordcloud.png">
 </p>
 
 <p align="center">
-  <img src="./카테고리탑5워드클라우드.png">
+  <img src="./cate_wordcloud.png">
 </p>
