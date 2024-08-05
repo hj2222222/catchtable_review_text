@@ -6,7 +6,7 @@
     <p>3점대 명사</p>
     <img src="./3_name.png">
   </div>
-    <div>
+  <div>
     <p>5점대 명사</p>
    <img src="./5_name.png">
   </div>
